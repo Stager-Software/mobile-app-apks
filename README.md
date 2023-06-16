@@ -6,5 +6,4 @@ It is preferred to [install our mobile app on Adroid from the Play Store](https:
 In some cases Andoid devices do not have the Play Store, hence we offer APK downloads from here.
 
 Go to the [Releases page](https://github.com/Stager-Software/mobile-app-apks/releases) to find download links.
-
-
+The most recent release is labelled with a green label that says "latest".
